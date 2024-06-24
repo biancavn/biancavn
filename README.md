@@ -1,5 +1,5 @@
 Wait! Let me introduce myself 👩‍💻
-- 📚 I'm in the first year of UFRN's Bachelor of Information Technology
+- 📚 I'm in the second year of UFRN's Bachelor of Information Technology
 - 👩‍🎓 I'm a computer science technician from IFRN
 - 💻 I have experience with languages like C++, Java, HTML, JavaScript, SQL and Python
 - 🌱 Currently learning JavaScript
